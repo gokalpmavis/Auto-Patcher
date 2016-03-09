@@ -1,0 +1,5 @@
+C:\Users\Gökalp Maviş\Desktop\autopatcher\PatcherLibrary\obj\x64\Debug\PatcherLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Gökalp Maviş\Desktop\autopatcher\PatcherLibrary\bin\x64\Debug\PatcherLibrary.dll
+C:\Users\Gökalp Maviş\Desktop\autopatcher\PatcherLibrary\bin\x64\Debug\PatcherLibrary.pdb
+C:\Users\Gökalp Maviş\Desktop\autopatcher\PatcherLibrary\obj\x64\Debug\PatcherLibrary.dll
+C:\Users\Gökalp Maviş\Desktop\autopatcher\PatcherLibrary\obj\x64\Debug\PatcherLibrary.pdb

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="twrepoModelStoreContainer" CdmEntityContainer="twrepoEntities">
+    <EntitySetMapping Name="repos">
+      <EntityTypeMapping TypeName="twrepoModel.repos">
+        <MappingFragment StoreEntitySet="repos">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="path" ColumnName="path" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

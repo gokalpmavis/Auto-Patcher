@@ -1,0 +1,16 @@
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherServer\bin\x64\Debug\Repairer.exe.config
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherServer\bin\x64\Debug\Repairer.exe
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherServer\bin\x64\Debug\Repairer.pdb
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherServer\bin\x64\Debug\EntityFramework.dll
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherServer\bin\x64\Debug\PatcherLibrary.dll
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherServer\bin\x64\Debug\EntityFramework.xml
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherServer\bin\x64\Debug\PatcherLibrary.pdb
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherServer\obj\x64\Debug\autopatcherZipper.csprojResolveAssemblyReference.cache
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherServer\obj\x64\Debug\Patcher.Zipper.RepairForm.resources
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherServer\obj\x64\Debug\Patcher.Zipper.Properties.Resources.resources
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherServer\obj\x64\Debug\autopatcherZipper.csproj.GenerateResource.Cache
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherServer\obj\x64\Debug\Repairer.exe
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherServer\obj\x64\Debug\Repairer.pdb
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherZipper\bin\x64\Debug\Repairer.exe.config
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherZipper\obj\x64\Debug\Repairer.exe
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherZipper\obj\x64\Debug\Repairer.pdb

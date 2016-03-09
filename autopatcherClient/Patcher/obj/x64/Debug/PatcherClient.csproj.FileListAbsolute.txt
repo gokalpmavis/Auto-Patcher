@@ -1,0 +1,4 @@
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherClient\Patcher\bin\x64\Debug\PatcherClient.dll
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherClient\Patcher\bin\x64\Debug\PatcherClient.pdb
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherClient\Patcher\obj\x64\Debug\PatcherClient.dll
+C:\Users\Gökalp Maviş\Desktop\autopatcher\autopatcherClient\Patcher\obj\x64\Debug\PatcherClient.pdb
