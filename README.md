@@ -27,10 +27,10 @@ Zipper and Content File Producer (“AutopatcherZipper”)=>
   	● 	If it is a file, content file line has its name and its MD5 hash value.
  
   Example for context file lines: 
-  /
+
+ /
   
   file1    	MD5_HASH_VALUE
-  
   file2   		MD5_HASH_VALUE
   
   /Directory1
