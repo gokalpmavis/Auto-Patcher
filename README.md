@@ -28,21 +28,21 @@ Zipper and Content File Producer (“AutopatcherZipper”)=>
  
   Example for context file lines: 
 
- /
-  
-  file1    	MD5_HASH_VALUE
-  
-  file2   		MD5_HASH_VALUE
-  
-  /Directory1
-  
-  file1    	MD5_HASH_VALUE
-  
-  file2     	MD5_HASH_VALUE
-  
-  /Directory1/Directory1.1
-  
-  file     		MD5_HASH_VALUE
+		 /
+		  
+		  file1    	MD5_HASH_VALUE
+		  
+		  file2   		MD5_HASH_VALUE
+		  
+		  /Directory1
+		  
+		  file1    	MD5_HASH_VALUE
+		  
+		  file2     	MD5_HASH_VALUE
+		  
+		  /Directory1/Directory1.1
+		  
+		  file     		MD5_HASH_VALUE
 
  
 Diff Creator (”AutopatcherDiffer”) =>
