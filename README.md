@@ -31,6 +31,7 @@ Zipper and Content File Producer (“AutopatcherZipper”)=>
  /
   
   file1    	MD5_HASH_VALUE
+  
   file2   		MD5_HASH_VALUE
   
   /Directory1
